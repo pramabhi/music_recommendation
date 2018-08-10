@@ -1,2 +1,2 @@
 # music_recommendation
-Music recommendation engine using KKBox data
+Music recommendation engine using KKBox data from Kaggle
